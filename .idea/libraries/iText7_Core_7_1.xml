@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="iText7-Core-7.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Libreria de base de datos mysql/LibreriasJava/iText7-Core-7.1.16-only-jars (1)" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Libreria de base de datos mysql/LibreriasJava/iText7-Core-7.1.16-only-jars (1)" recursive="false" />
+  </library>
+</component>
